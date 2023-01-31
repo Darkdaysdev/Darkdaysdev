@@ -16,15 +16,15 @@ class darkdays{
     this.type = "human",
     this.job = "programmer",
     this.sex = "male"
-  }
+
 }
 ```
-[![Discord Profilim](https://lanyard.cnrad.dev/api/1014083225800417291)](https://discord.com/users/1014083225800417291)
+[![Discord Profilim](https://lanyard.cnrad.dev/api/343751322299924481)](https://discord.com/users/343751322299924481)
 
 Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz. 
 
 <p align="center">
- <a href="https://discord.com/users/1014083225800417291" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://discord.com/users/343751322299924481" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/darkdaysdev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://www.instagram.com/darkdays.js/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
