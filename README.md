@@ -21,6 +21,8 @@ class darkdays{
 ```
 [![Discord Profilim](https://lanyard.cnrad.dev/api/343751322299924481)](https://discord.com/users/343751322299924481)
 
+[![Discord Profilim](https://lanyard.cnrad.dev/api/1080262221927555083)](https://discord.com/users/1080262221927555083)
+
 Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz. 
 
 <p align="center">
