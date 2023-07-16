@@ -30,12 +30,9 @@ Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşıl
   <a href="https://github.com/darkdaysdev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://www.instagram.com/darkdays.js/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=vegasdev&show_icons=true&hide_title=true&theme=merko">
-
 💻 Diller Ve Araçlar
 
 <img alt="C++" align="center" src="https://img.shields.io/badge/-C++-264de4?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fia3th48hckottr3ol6rctnsc&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fia3th48hckottr3ol6rctnsc&redirect=true)
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=darkdaysdev&show_icons=true&hide_title=true&theme=merko">
