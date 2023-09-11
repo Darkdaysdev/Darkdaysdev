@@ -1,6 +1,6 @@
 ### Herkese Selam! Profilime Hoşgeldiniz <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=vegasdev&color=blue"/>
+    <img src="https://komarev.com/ghpvc/?username=darkdaysdev&color=blue"/>
 </div>
 
 Selam, ben 2021 Şubat'dan beri Discord botları ile uğraşıyorum.
@@ -19,19 +19,17 @@ class darkdays{
 
 }
 ```
-[![Discord Profilim](https://lanyard.cnrad.dev/api/343751322299924481)](https://discord.com/users/343751322299924481)
-
-[![Discord Profilim](https://lanyard.cnrad.dev/api/1080262221927555083)](https://discord.com/users/1080262221927555083)
+[![Discord Profilim](https://lanyard.cnrad.dev/api/852757286375129128)](https://discord.com/users/852757286375129128)
 
 Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz. 
 
 <p align="center">
- <a href="https://discord.com/users/343751322299924481" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://discord.com/users/852757286375129128" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/darkdaysdev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://www.instagram.com/darkdays.js/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=vegasdev&show_icons=true&hide_title=true&theme=merko">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=darkdaysdev&show_icons=true&hide_title=true&theme=merko">
 
 💻 Diller Ve Araçlar
 
