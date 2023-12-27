@@ -9,7 +9,7 @@ Bu GitHub hesabım ile sizlere Discord Botları ile ilgili altyapılar sunacağ�
 ```js
 class darkdays{
   constructor(options) {
-    this.birthday = "04",
+    this.birthday = "05",
     this.birthmonth = "January",
     this.height = "1.82",
     this.weight = "70",
