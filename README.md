@@ -45,4 +45,4 @@ class darkdays{
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jds3oy6auvf3qfh6ndl66m5ogq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jds3oy6auvf3qfh6ndl66m5ogq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31usu44fhvxk2stxutv2kpij3qjm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31usu44fhvxk2stxutv2kpij3qjm&redirect=true)
