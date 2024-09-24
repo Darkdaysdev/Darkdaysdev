@@ -32,13 +32,11 @@ class darkdays{
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=a600ff&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+About+Me" alt="Typing SVG" /></h1>
 <img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=Selam+ben+darkdays+uzun+süredir+yazılımla+uğraşıyorum+yakında+güzel+projeler+paylaşacağım+." alt="darkdaysdev" />
 
-
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
-
 [![Discord Profilim](https://lanyard.cnrad.dev/api/901094423033708576)](https://discord.com/users/901094423033708576)
 
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=00ff88&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Lang's" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darkdaysdev&show_icons=true&theme=dark&locale=en&layout=compact" alt="Darkdaysdev" /></p>
 <p align="left">
@@ -53,9 +51,4 @@ class darkdays{
   <img src="https://profile-counter.glitch.me/Darkdaysdev/count.svg" />  
 </p>
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 
