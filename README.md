@@ -18,6 +18,3 @@
 <p align="center" >    
   <img src="https://profile-counter.glitch.me/Darkdaysdev/count.svg" />  
 </p>
-
-
-<a href="https://app.daily.dev/darkdaysdev"><img src="https://api.daily.dev/devcards/v2/XkjkzJ1UfQDImQDMk9oFL.png?r=2t8&type=wide" width="652" alt="Darkdays dev's Dev Card"/></a>
