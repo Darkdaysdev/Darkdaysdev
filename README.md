@@ -19,7 +19,7 @@
 <br/><br/>
 
 [![Followers](https://img.shields.io/github/followers/Darkdaysdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers)](https://github.com/Darkdaysdev?tab=followers)
-[![Website](https://img.shields.io/badge/Website-darkdaysdev.space-1155ba?style=for-the-badge)](https://darkdaysdev.space)
+[![Website](https://img.shields.io/badge/Website-darkdays.online-1155ba?style=for-the-badge)](https://darkdays.online)
 <br/><br/>
 
 <p align="center">
