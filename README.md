@@ -38,7 +38,7 @@
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkdaysdev&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://ghchart.rshah.org/7B2FBE/Darkdaysdev" alt="Contribution Graph" width="95%" />
 <br/><br/>
 
 ---
